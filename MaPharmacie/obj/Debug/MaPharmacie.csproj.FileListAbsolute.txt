@@ -1,0 +1,51 @@
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.exe.config
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.exe
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.pdb
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.debutForm.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.Properties.Resources.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csproj.GenerateResource.cache
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.exe
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.pdb
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\MySql.Data.dll
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\Google.Protobuf.dll
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\MySql.Data.xml
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.loginForm.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.managementForm.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csproj.CopyComplete
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\bin\Debug\fr-FR\MaPharmacie.resources.dll
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.debutForm.fr-FR.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.managementForm.fr-FR.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\fr-FR\MaPharmacie.resources.dll
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.changePasswordForm.resources
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csprojAssemblyReference.cache
+C:\Users\Bamba\source\repos\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.newCredentialsForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.exe.config
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.exe
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.pdb
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\fr-FR\MaPharmacie.resources.dll
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\Google.Protobuf.dll
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\BouncyCastle.Crypto.dll
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MySql.Data.xml
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csprojAssemblyReference.cache
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.newCredentialsForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.changePasswordForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.debutForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.loginForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.managementForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.Properties.Resources.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.debutForm.fr-FR.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.managementForm.fr-FR.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csproj.GenerateResource.cache
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\fr-FR\MaPharmacie.resources.dll
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.csproj.CopyComplete
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.exe
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.pdb
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.chooseActionForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.drugsForm.resources
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.exe.manifest
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\bin\Debug\MaPharmacie.application
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.TrustInfo.xml
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.exe.manifest
+D:\Coding\Desktop\Visual Studio\C#\MaPharmacie\MaPharmacie\obj\Debug\MaPharmacie.application
